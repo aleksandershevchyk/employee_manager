@@ -5,3 +5,10 @@ c:\users\max\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.C
 c:\users\max\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 c:\users\max\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
 C:\Users\Max\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\Emploee_manager\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Max\source\repos\Emploee_manager\bin\Debug\ConsoleApp5.exe
+C:\Users\Max\source\repos\Emploee_manager\bin\Debug\ConsoleApp5.pdb
+C:\Users\Max\source\repos\Emploee_manager\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\Emploee_manager\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Emploee_manager\obj\Debug\ConsoleApp5.exe
+C:\Users\Max\source\repos\Emploee_manager\obj\Debug\ConsoleApp5.pdb
