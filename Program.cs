@@ -81,7 +81,7 @@ namespace ConsoleApp5
         //    while (EnterCommand != "Exit");
         //}
 
-        protected static void processCommandDelete()// метод удаления дела
+        protected static void processCommandDelete()// метод удаления 
         {
             Console.WriteLine("Введите ID дела, который хотите удалить");
             int index = 0; //Чтобы не было ошибки отсутсвия переменной
